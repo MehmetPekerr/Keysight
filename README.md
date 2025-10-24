@@ -103,15 +103,3 @@ muzik-duygu-analizi/
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## İletişim
-
-- Proje Sahibi: [İsim Soyisim]
-- E-posta: [E-posta Adresi]
-- GitHub: [GitHub Profili]
-
-## Teşekkürler
-
-- [Katkıda Bulunanlar]
-- [Kullanılan Kütüphaneler]
-- [Referanslar] 
