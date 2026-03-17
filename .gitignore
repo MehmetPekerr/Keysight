@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Uploads (geçici)
+uploads/
+
+# Large binary/data files
+*.rar
+training_data.pkl
+maestro-v3.0.0.json
+maestro-v3.0.0.csv
+
+# OS
+.DS_Store
+Thumbs.db
