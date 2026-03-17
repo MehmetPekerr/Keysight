@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🎵 Keysight — AI-Powered Music Emotion & Tonality Analyzer
 
 **Keysight**, MIDI formatındaki müzik dosyalarını yapay zeka kullanarak analiz eden ve müziğin tonalitesini (Major/Minor) ile yansıttığı duyguları tespit eden bir web uygulamasıdır.
@@ -84,6 +85,8 @@ pip install -r requirements.txt
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
 # Müzik Duygu ve Tonalite Analizi
 
 Bu proje, MIDI formatındaki müzik dosyalarını analiz ederek tonaliteyi ve yansıttığı duyguları tespit eden yapay zeka destekli bir web uygulamasıdır.
@@ -128,6 +131,9 @@ pip install -r requirements.txt
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
@@ -147,6 +153,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -233,6 +240,8 @@ Model eğitimi için [MAESTRO v3.0.0](https://magenta.tensorflow.org/datasets/ma
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
 2. Tarayıcınızda `http://localhost:5000` adresine gidin
 
 3. MIDI dosyası yükleyin ve analiz sonuçlarını görüntüleyin
@@ -302,6 +311,9 @@ muzik-duygu-analizi/
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
